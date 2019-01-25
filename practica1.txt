@@ -1,2 +1,4 @@
 "primer integrante: yessica ramirez varela" 
 hola
+"segundo integrante: laisha fernanda roque venegas"
+holaa
